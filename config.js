@@ -10,6 +10,7 @@ module.exports = {
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: "Alessandro Burato",
   heading: "Sr. Software Engineer",
+  motto: `“Unlucky in cards”`,
   // social
   socialLinks: [
     {

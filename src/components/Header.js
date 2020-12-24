@@ -10,7 +10,8 @@ export default function Footer() {
         <img height="128px" src={pic} alt="" />
       </span>
       <h1>{config.authorName}</h1>
-      <p>{config.heading}</p>
+      <p className="heading">{config.heading}</p>
+      <p className="motto">{config.motto}</p>
     </header>
   );
 }
